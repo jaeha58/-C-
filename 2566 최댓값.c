@@ -14,4 +14,5 @@ int main(void) {
         }
     }
     printf("%d\n%d %d", max, l_i, l_j);
+    return 0;
 }
